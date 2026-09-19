@@ -7,7 +7,7 @@ const port = 3000
 app.get('/', (req, res) => {
     res.send(`
         <h1>Hello Aditya 👋</h1>
-        <h2>My first Node1 project is deployed using Jenkins Pipeline</h2>
+        <h2>My first Node1 project is deployed using Jenkins Pipeline1</h2>
         <h2>Version: 1.0.0</h2>
     `)
 })
